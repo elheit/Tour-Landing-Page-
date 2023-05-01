@@ -1,2 +1,2 @@
-run npm install first 
+run npm install first \n
 read the package.json 
